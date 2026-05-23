@@ -11,7 +11,10 @@ Enter stock symbols and quantities. The program uses a dictionary to look up pri
 ```bash
 python tracker.py
 ## Demo Video
-[Watch the demo here](https://drive.google.com/file/d/1I-Q4bm6OrO-ONKTZAd-Jht7Vvtyy78r6/view?usp=drive_link)
+[Watch the demo here](python tracker.py
+## Demo Video
+[Watch the demo here](https://drive.google.com/file/d/1I-Q4bm6OrO-ONKTZAd-Jht7Vvtyy78r6/view?usp=sharing)
+
 
 ## Key Concepts
 - Dictionary for stock prices
